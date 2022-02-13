@@ -171,7 +171,7 @@ Three
 &lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-  color: navy;
+  color: #9B8108;
 }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
