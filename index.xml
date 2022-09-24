@@ -1,76 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Merve Kurt - Academic</title>
+    <title>Merve Kurt&#39;s Academic Website</title>
     <link>https://mrvkrt.github.io/</link>
-      <atom:link href="https://mrvkrt.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Merve Kurt - Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Merve Kurt- All right are reserved (to where?) © 2022</copyright><lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://mrvkrt.github.io/media/icon_hu3e3a729c880bf149f8e96cb77a21850f_121697_512x512_fill_lanczos_center_3.png</url>
-      <title>Merve Kurt - Academic</title>
-      <link>https://mrvkrt.github.io/</link>
-    </image>
-    
-    <item>
+    <description>Recent content on Merve Kurt&#39;s Academic Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mrvkrt.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Turkish Double Tax Conventions and Foreign Direct Investment Relationship: An Empirical Review</title>
-      <link>https://mrvkrt.github.io/publication/tax_article/</link>
+      <link>https://mrvkrt.github.io/posts/tax_article/</link>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://mrvkrt.github.io/publication/tax_article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>35. International Public Finance Conference</title>
-      <link>https://mrvkrt.github.io/talk/35.-international-public-finance-conference/</link>
-      <pubDate>Fri, 17 Sep 2021 08:00:00 +0000</pubDate>
-      <guid>https://mrvkrt.github.io/talk/35.-international-public-finance-conference/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
+      
+      <guid>https://mrvkrt.github.io/posts/tax_article/</guid>
+      <description>Abstract: One of the most essential tools that developing countries use to increase their Foreign Direct Investment (FDI) is Double Tax Conventions (DTCs). Turkey has signed DTC’s with more than 90 countries. Among these countries, we chose 20 EU countries which intense economic relations with Turkey and affect Turkey’s FDI stock for analysis. In the study, within DTCs signed with these 20 European Union countries, the effect of articles 10 and 11 of Turkish DTCs on Turkey&amp;rsquo;s FDI inflow was examined with static panel analysis methods between 2000 and 2018.</description>
     </item>
     
     <item>
       <title>A Review on Causality Between Tax Expenditures and Income Inequality</title>
-      <link>https://mrvkrt.github.io/publication/tax_ex_expended.md/</link>
+      <link>https://mrvkrt.github.io/posts/tax_ex_expended.md/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrvkrt.github.io/publication/tax_ex_expended.md/</guid>
-      <description></description>
+      
+      <guid>https://mrvkrt.github.io/posts/tax_ex_expended.md/</guid>
+      <description>Abstract: Tax expenditures are expected to support policies aimed at reducing income inequality and contribute to income redistribution. The purpose of this study is to empirically examine whether the two phenomena are in a causal relationship about the theoretical framework. In this context, first, the relations between tax expenditures and income distribution are theoretically evaluated. Then, the relationships between the variables are tested with dynamic panel data analysis methods using the data of 16 countries with different levels of development between 2007-2017.</description>
     </item>
     
     <item>
       <title>Returns on Investment in Education: Evidence from Turkey by Education Levels and by Higher Education Programs</title>
-      <link>https://mrvkrt.github.io/publication/higher-educ/</link>
+      <link>https://mrvkrt.github.io/posts/higher-educ/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrvkrt.github.io/publication/higher-educ/</guid>
-      <description></description>
+      
+      <guid>https://mrvkrt.github.io/posts/higher-educ/</guid>
+      <description>Abstract: &amp;ldquo;This paper estimates private and social returns on investment in education in Turkey, by level of education and by higher education program, using the 2008–2016 Household Labor Force Survey and Income and Living Conditions Survey panel datasets. The paper uses panel econometrics with the Hausman-Taylor and instrumental variable methods dealing with the endogeneity and unobserved heterogeneity problems. The private returns on investment in higher education tend to be higher as compared to the private returns on investment in nontertiary education.</description>
     </item>
     
     <item>
       <title>Private Returns to Levels of Education in Turkey: Evidence from Panel Data</title>
-      <link>https://mrvkrt.github.io/publication/education/</link>
+      <link>https://mrvkrt.github.io/posts/education/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrvkrt.github.io/publication/education/</guid>
-      <description></description>
+      
+      <guid>https://mrvkrt.github.io/posts/education/</guid>
+      <description>Abstract Along with the emergence of the concept of human capital, there has been an increase in research on the economic contribution of education. One of the most important reasons to invest in education is wage differentials. But there are many direct and indirect, private and social contributions of education. Because of these reasons demand for education has been increasing. There are different stages of education from primary education to higher education and each education level has a different economic return.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://mrvkrt.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mrvkrt.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
   </channel>
 </rss>
